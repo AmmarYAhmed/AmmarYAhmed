@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @AmmarYAhmed
-- 👀 I’m interested in Computer Engineering & Computer Science
+- 📚 I am a Computer Engineering Student at the University of Michigan
+- 👀 I’m interested in Software Engineering and Techincal Project/Program Management
+- 📱  My LinkedIn profile: https://linkedin.com/in/ammar-y-ahmed
 - 📫 How to reach me: ammar.y.ahmed1@gmail.com
 
 <!---
