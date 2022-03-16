@@ -2,7 +2,7 @@
 - 📚 I am a Computer Engineering Student at the University of Michigan
 - 👀 I’m interested in Software Engineering and Techincal Project/Program Management
 - 📱  My LinkedIn profile: https://linkedin.com/in/ammar-y-ahmed
-- 📫 How to reach me: ammar.y.ahmed1@gmail.com & (262) 951-5403
+- 📫 How to reach me: ammarah@umich.edu & (262) 951-5403
 
 <!---
 AmmarYAhmed/AmmarYAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
