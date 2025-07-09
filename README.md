@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AmmarYAhmed
-- 📚 I am a Masters Student in Computer Science and Engineering at University of Michigan - College of Engineering
-- 👀 I’m interested in Distributed Systems, Internet of Things (IoT), and DevOps
+- 🤖 I am a DevOps Engineer @ NVIDIA Robotics
 - 📱 My LinkedIn profile: https://linkedin.com/in/ammar-y-ahmed
-- 📫 How to reach me: ammarah@umich.edu
+- 📫 How to reach me: ammar.y.ahmed1@gmail.com
 
 <!---
 AmmarYAhmed/AmmarYAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
